@@ -8,7 +8,6 @@ I develop open-source projects/software, such as a Minecraft modpack installer/u
 ###### you'll find these on nearly every github profile
 
 [![xTrM_'s Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xtrm-en&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 [![xTrM_'s Github Stats](https://github-readme-stats.vercel.app/api?username=xtrm-en&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![xTrM_'s wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xTrM_&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
