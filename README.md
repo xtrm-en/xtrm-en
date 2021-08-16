@@ -1,4 +1,4 @@
-# Heya 👋 I'm xTrM_.
+# Heya 👋 I'm xtrm.
 
 I'm a software developer/engineer. I code in Java, Python and JavaScript, and I'm currently learning C++, Kotlin and x86 Assembly.
 
