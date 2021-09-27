@@ -16,4 +16,11 @@ Supporting me is highly appreciated! You can do so on [Buy Me A Coffee](https://
 [![xTrM_'s Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xtrm-en&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![xTrM_'s Github Stats](https://github-readme-stats.vercel.app/api?username=xtrm-en&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+##### some more obscure stats
+
 [![xTrM_'s Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=xtrm&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats/)
+
+##### ooo we getting spicy
+
+#### Visitors (Since 27/09/2021)
+![](https://count.getloli.com/get/@xTrM-EN?theme=rule34)
