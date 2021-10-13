@@ -1,8 +1,8 @@
 # Heya 👋 I'm xtrm.
 
-I'm a software developer/engineer. I code in Java, Python and Kotlin, and I'm currently learning C++ and x86 Assembly.
+I'm a software developer/engineer. I code in Kotlin, Java, and Python, and I'm currently learning C++, Rust, and x86 Assembly.
 
-I develop open-source projects/software, such as a Minecraft modpack installer/updater (maybe not activly rn cuz, yknow, other stuff), as well as other public projets, including a JVM injection-based modding platform.
+I develop open-source projects/software, such as a JVM injection-based [modding platform](https://github.com/stardust-enterprises/atlas-framework) and [hooking framework](https://github.com/stardust-enterprises/deface).
 
 ## My Internet presence
 If you wish to find me somewhere on the internet, or just see my other projects, you can check my [solo.to](https://solo.to/xtrm).
