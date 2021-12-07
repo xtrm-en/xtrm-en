@@ -1,6 +1,6 @@
 # Heya 👋 I'm xtrm.
 
-I'm a software developer/engineer. I code in Kotlin, Java, and Python, and I'm currently learning C++, Rust, and x86 Assembly.
+I'm a software developer/engineer. I code in Kotlin, Rust, Java, and I'm currently learning x86 Assembly.
 
 I develop open-source projects/software, such as a JVM injection-based [modding platform](https://github.com/stardust-enterprises/atlas-framework) and [hooking framework](https://github.com/stardust-enterprises/deface).
 
