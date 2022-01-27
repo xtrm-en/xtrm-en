@@ -8,8 +8,7 @@ I develop open-source projects/software, such as a JVM injection-based [modding 
 If you wish to find me somewhere on the internet, or just see my other projects, you can check my [solo.to](https://solo.to/xtrm).
 
 ## some cool stats
-
-[![xtrm-en's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xtrm&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![xtrm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xtrm&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### visitors
 ![](https://count.getloli.com/get/@xTrM-EN?theme=rule34)
