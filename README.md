@@ -1,8 +1,13 @@
 # Heya 👋 I'm xtrm.
 
-I'm a software developer/engineer working closely with JVM languages such as [Kotlin](https://kotlinlang.org) and native languages like [Rust](https://rust-lang.org).
+I'm a software developer/engineer working closely with JVM languages 
+such as [Kotlin](https://kotlinlang.org) and native languages 
+like [Rust](https://rust-lang.org).
 
-I develop open-source projects/software, such as a JVM injection-based [modding platform](https://github.com/stardust-enterprises/atlas-framework) and [hooking framework](https://github.com/stardust-enterprises/deface).
+I develop open-source projects/software, such as 
+a JVM injection-based [modding platform](https://github.com/stardust-enterprises/atlas-framework) 
+and [hooking](https://github.com/cbyrneee/injector)
+/[transformation framework](https://github.com/stardust-enterprises/deface).
 
 ## my internet presence
 If you wish to find me somewhere on the internet, or just see my other projects, you can check [my website](https://xtrm.me).
