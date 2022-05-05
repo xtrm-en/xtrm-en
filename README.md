@@ -1,4 +1,4 @@
-# Heya 👋 I'm Killian.
+# Heya 👋 I'm killian.
 
 I'm a software developer/engineer working closely with JVM languages 
 such as [Kotlin](https://kotlinlang.org) and native languages 
