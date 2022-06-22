@@ -8,7 +8,7 @@ I develop multiple category of software, usually under the
 free/libre/open-source (FLOSS) philosophy which I like a lot.
 
 I currently am working on a JVM injection-based [modding platform/framework](https://github.com/stardust-enterprises/atlas-framework), 
-as well as a [hooking/transformation framework](https://github.com/stardust-enterprises/deface), 
+as well as a [hooking](https://github.com/MizuSoftware/aspekt)/[transformation framework](https://github.com/stardust-enterprises/deface), 
 also for the JVM.
 
 ## my internet presence
