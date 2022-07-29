@@ -15,6 +15,8 @@ also for the JVM.
 If you wish to find me somewhere on the internet, or check out 
 my other social media, you can take a look at [my website](https://xtrm.me).
 
+[![42 stats](https://badge42.vercel.app/api/v2/cl66jou5s004709mk6r5575e0/stats?cursusId=9&coalitionId=undefined)](https://profile.intra.42.fr/users/kroussar)
+
 ## some cool stats
 [![xtrm's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xtrm&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
