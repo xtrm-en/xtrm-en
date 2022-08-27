@@ -16,3 +16,7 @@ also for the JVM.
 `🌐` Most of my social media and contact can be found on [`my website`](https://xtrm.me), feel free to check it out!
 
 ###### *(I might add a portfolio on there sometime)*
+
+## `📊 Nerd statistics`
+
+##### (soon once I figure it out)
