@@ -1,6 +1,6 @@
 # Heya 👋 I'm `killian.`
 
-`💻` I'm a software developer/engineer enjoying programming since 2014. 
+`💻` I'm a software developer/engineer enjoying programming and problem solving.
 
 `✨` I enjoy working closely with JVM languages such as [`Kotlin`](https://kotlinlang.org),
 as well as other native languages, with [`Rust`](https://rust-lang.org) being one of my top choices.  
