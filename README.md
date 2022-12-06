@@ -1,15 +1,14 @@
 # Heya 👋 I'm `killian.`
 
-`💻` I'm a software developer/engineer enjoying programming and problem solving.
+`💻` I'm a software developer/engineer enjoying programming since 2014.
 
 `✨` I enjoy working closely with JVM languages such as [`Kotlin`](https://kotlinlang.org),
 as well as other native languages, with [`Rust`](https://rust-lang.org) being one of my top choices.  
 `✍️` I develop multiple category of software, usually under the
 free/libre/open-source (FLOSS) philosophy which I like a lot.
 
-`🌱` I currently am working on a JVM interoperable and injection-based [`modding platform/framework`](https://github.com/stardust-enterprises/atlas-framework), 
-as well as a [`hooking framework`](https://github.com/MizuSoftware/aspekt) and a [`transformation library`](https://github.com/stardust-enterprises/deface), 
-also for the JVM.
+`🌱` I currently am working at [`Polyfrost`](https://github.com/Polyfrost) on [`OneConfig`](https://github.com/Polyfrost/OneConfig), a Minecraft configuration library putting emphasis on User Experience.  
+I'm also working on a JVM injection-based [`modding platform/framework`](https://github.com/stardust-enterprises/atlas-framework), as well as a [`bytecode transformation library`](https://github.com/stardust-enterprises/deface).
 
 ## `🛠️ Technologies`
 
