@@ -8,7 +8,7 @@ as well as other native languages, with [`Rust`](https://rust-lang.org) being on
 free/libre/open-source (FLOSS) philosophy which I like a lot.
 
 `🌱` I currently am working at [`Polyfrost`](https://github.com/Polyfrost) on [`OneConfig`](https://github.com/Polyfrost/OneConfig), a Minecraft configuration library putting emphasis on User Experience.  
-I'm also working on a JVM injection-based [`modding platform/framework`](https://github.com/stardust-enterprises/atlas-framework), as well as a [`bytecode transformation library`](https://github.com/stardust-enterprises/deface).
+I'm also working on a JVM injection-based [`modding platform/framework`](https://github.com/atlas-fw), as well as a [`bytecode transformation library`](https://github.com/stardust-enterprises/deface).
 
 ## `🛠️ Technologies`
 
