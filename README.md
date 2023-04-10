@@ -31,3 +31,5 @@ Here you can find some of the tools I use for my everyday work, including Progra
 `🌐` Most of my social media and contact information can also be found on [`my website`](https://xtrm.me), feel free to check it out!
 
 ###### *(I might add a portfolio on there sometime)*
+#### hey look a funny profile view counter 
+<img src="https://moe-counter.glitch.me/get/@xTrM-EN" alt="profile view counter"/>
