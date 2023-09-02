@@ -6,8 +6,8 @@
 `✍️` I enjoy working closely with JVM languages such as [Kotlin](https://kotlinlang.org), as well as other native languages, with [Rust](https://rust-lang.org) being my top choice.  
 `✨` I develop multiple category of software, usually under my preferred free/libre/open-source software (FLOSS) philosophy.
 
-`🌐` I'm currently working at [Paladium Group](https://paladium-pvp.fr) and at [Auraside](https://github.com/Auraside) on undisclosed projects, as well as contributing to open-source projects and organizations such as [Polyfrost](https://github.com/Polyfrost) and [RedstoneTools](https://github.com/RedstoneTools).  
-`🌱` I'm also making in my free time a JVM runtime & injection-based) [modding platform](https://github.com/SpruceLoader), as well as a [bytecode transformation library](https://github.com/stardust-enterprises/deface), altough _very much_ WIPs.
+`🌐` I'm currently working at [Paladium Group](https://paladium-pvp.fr) on undisclosed projects, as well as contributing to open-source projects and organizations such as [Polyfrost](https://github.com/Polyfrost) and [RedstoneTools](https://github.com/RedstoneTools).  
+`🌱` I'm also making in my free time a JVM runtime & injection-based [modding platform](https://github.com/SpruceLoader), as well as a [bytecode transformation library](https://github.com/stardust-enterprises/deface), altough _very much_ WIPs.
 
 ## `🛠️ Technologies`
 
