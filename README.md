@@ -1,34 +1,39 @@
 # Heya 👋 I'm `killian.`
 
-`💻` I'm an `18` y/o software developer/engineer enjoying programming since `2014`.  
-`📚` I'm a student since `2023` @ [42Angouleme](https://42angouleme.fr), a campus part of the [42 Network](https://www.42network.org/). 
+`💻` I'm an `18` y/o software developer having a blast at programming since `2014`.  
+`📚` I'm a student @ [42Angouleme](https://42angouleme.fr), a campus part of the [42 Network](https://www.42network.org/). 
 
-`✍️` I enjoy working closely with JVM languages such as [Kotlin](https://kotlinlang.org), as well as other native languages, with [Rust](https://rust-lang.org) being my top choice.  
-`✨` I develop multiple category of software, usually under my preferred free/libre/open-source software (FLOSS) philosophy.
+`✨` My projects usually fall under the free/libre/open-source software ([FLOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software)) philosophy.
+`✍️` I enjoy working closely with JVM languages such as [Java](https://adoptium.net) & [Kotlin](https://kotlinlang.org), as well as [Rust](https://rust-lang.org).  
 
-`🌐` I'm currently working at [Paladium Games](https://paladium-pvp.fr), as well as contributing to open-source projects and organizations such as [Polyfrost](https://github.com/Polyfrost) and [RedstoneTools](https://github.com/RedstoneTools).  
-`🌱` I'm also making in my free time a JVM runtime & injection-based [modding platform](https://github.com/SpruceLoader), as well as a [bytecode transformation library](https://github.com/stardust-enterprises/deface), altough _very much_ WIPs.
+`🌐` I'm currently working at [Paladium Games](https://paladium-pvp.fr), as well as contributing to multiple open-source projects and organizations.  
+`🌱` I'm also making in my free time multiple open-source projects, such as a JVM runtime & injection-based [modding platform](https://github.com/LumosMC), as well as useful [related libraries](https://github.com/stardust-enterprises/deface), altough _very much_ WIPs.
 
 ## `🛠️ Technologies`
 
-Here you can find some of the tools I use for my everyday work, including Programming Languages, some Web Frameworks I tend to use, as well as some software I enjoy.
+Here you can find some of the tech I learned and use daily to create 😎 **_cool_** and **_amazing_** 😎 stuff _(in no particular order):_
 
-`>` **Programming languages**
+<details>
+<summary><b>Programming languages</b></summary>
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java,c,rust,kotlin,python,typescript" alt="Programming languages" height="40"/></a>
+</details>
 
-<img src="https://skills.thijs.gg/icons?i=kotlin,rust,java,c,typescript,python" alt="Programming languages" height="40"/>
+<details>
+<summary><b>Web technologies</b></summary>
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind,qwikjs,svelte,spring,react,ktor" alt="Web technologies" height="40"/></a>
+</details>
 
-`>` **Web development**
-
-<img src="https://skills.thijs.gg/icons?i=tailwind,react,spring,svelte,tauri,ktor" alt="Web technologies" height="40"/>
-
-`>` **Tooling**
-
-<img src="https://skills.thijs.gg/icons?i=linux,vim,idea,gradle,maven,bash,git,docker,github" alt="Tooling & other" height="40"/>
+<details>
+<summary><b>Overall tooling</b></summary>
+<br>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,vim,idea,gradle,maven,bash,git,docker,github,bun,deno" alt="Tooling & other" height="40"/></a>
+</details>
 
 ## `📫 My internet presence`
 
-`🌐` Most of my social media and contact information can also be found on [`my website`](https://xtrm.me), feel free to check it out!
+`🌐` Most of my social media and contact information can also be found on [`my website`](https://xtrm.me), and I sometimes post on my [blog](https://blog.xtrm.me), feel free to check those out!
 
-###### *(I might add a portfolio on there sometime)*
-#### hey look a funny profile view counter 
-<img src="https://moe-counter.glitch.me/get/@xTrM-EN" alt="profile view counter"/>
+##### i've had this profile view counter here for a while and it's gonna stay
+<img src="https://moe-counter.glitch.me/get/@xTrM-EN" alt="profile view counter" height="65"/>
