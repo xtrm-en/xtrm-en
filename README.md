@@ -22,7 +22,7 @@ Here you can find some of the tech I learned and use daily to create 😎 **_coo
 <details>
 <summary><b>Web technologies</b></summary>
 <br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind,qwikjs,svelte,spring,react,ktor" alt="Web technologies" height="40"/></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind,svelte,spring,react,ktor" alt="Web technologies" height="40"/></a>
 </details>
 
 <details>
