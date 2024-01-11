@@ -33,7 +33,7 @@ Here you can find some of the tech I learned and use daily to create 😎 **_coo
 
 ## 📫 My internet presence
 
-`🌐` Most of my social media and contact information can also be found on [`my website`](https://xtrm.me), and I sometimes post on my [blog](https://blog.xtrm.me), feel free to check those out!
+`🌐` Most of my social media and contact information can also be found on [`my new website`](https://xtrm.me), where I'm also publishing blog articles and deep dives into obscure tech I love, feel free to check it out!
 
 ##### i've had this profile view counter here for a while and it's gonna stay
 <img src="https://moe-counter.glitch.me/get/@xTrM-EN" alt="profile view counter" height="65"/>
