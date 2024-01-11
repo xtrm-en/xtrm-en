@@ -1,4 +1,4 @@
-# Heya 👋 I'm `killian.`
+# hi 👋 I'm **killian.**
 
 `💻` I'm an `18` y/o software developer having a blast at programming since `2014`.  
 `📚` I'm a student @ [42Angouleme](https://42angouleme.fr), a campus part of the [42 Network](https://www.42network.org/). 
@@ -9,7 +9,7 @@
 `🌐` I'm currently working at [Paladium Games](https://paladium-pvp.fr), as well as contributing to multiple open-source projects and organizations.  
 `🌱` I'm also making in my free time multiple open-source projects, such as a JVM runtime & injection-based [modding platform](https://github.com/LumosMC), as well as useful [related libraries](https://github.com/stardust-enterprises/deface), altough _very much_ WIPs.
 
-## `🛠️ Technologies`
+## 🛠️ Technologies
 
 Here you can find some of the tech I learned and use daily to create 😎 **_cool_** and **_amazing_** 😎 stuff _(in no particular order):_
 
@@ -31,7 +31,7 @@ Here you can find some of the tech I learned and use daily to create 😎 **_coo
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,vim,idea,gradle,maven,bash,git,docker,github,bun,deno" alt="Tooling & other" height="40"/></a>
 </details>
 
-## `📫 My internet presence`
+## 📫 My internet presence
 
 `🌐` Most of my social media and contact information can also be found on [`my website`](https://xtrm.me), and I sometimes post on my [blog](https://blog.xtrm.me), feel free to check those out!
 
