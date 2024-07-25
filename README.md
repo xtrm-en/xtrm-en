@@ -7,7 +7,7 @@
 
 If you're searching for my repositories and personal projects, you should check out [my **Codeberg** account](https://codeberg.org/xtrm) where I've migrated everything.
 
-[**Codeberg**](https://codeberg.org/about) is another Git hosting provider, similar to GitLab or BitBucket, but one which I respect and fully embrace the philosophy; it is simply the **better** choice for me, both in terms of ethics, respect for user-privacy, and functionnality.
+[**Codeberg**](https://codeberg.org/about) is another **Git** hosting provider, similar to GitLab or BitBucket, but one I **respect**, who respects me back, and from which I fully embrace the philosophy; it is simply the **better** choice for me, both in terms of ethics, respect for **user-privacy**, and functionnality.
 
 ## What about contributions on other GitHub projects?
 
