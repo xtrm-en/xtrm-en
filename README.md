@@ -3,14 +3,16 @@
 `💻` I'm a `19` y/o software developer having a blast at programming since `2014`.  
 `📚` I'm also a student @ [42 Angouleme](https://42angouleme.fr), a campus part of the wider [42 Network](https://www.42network.org/). 
 
-## Where is everything???
+## Why is your profile empty?
 
-I've begun the process of migrating **all** my repositories, organizations, and projects to [my **Codeberg** account](https://codeberg.org/xtrm). 
+If you're searching for my repositories and personal projects, you should check out [my **Codeberg** account](https://codeberg.org/xtrm) where I've migrated everything.
 
-## Why?
+[**Codeberg**](https://codeberg.org/about) is another Git hosting provider, similar to GitLab or BitBucket, but one which I respect and fully embrace the philosophy; it is simply the **better** choice for me, both in terms of ethics, respect for user-privacy, and functionnality.
 
-[**Codeberg**](https://codeberg.org/about) is simply the **better** choice for me, both in terms of ethics and functionnality. It is a **democratic**, **community-driven**, & **non-profit** software development platform and **Git hosting**, and has much more respectable standards when it comes to **user privacy**. also *fuck microsoft*.
+## What about contributions on other GitHub projects?
 
-## "Can I upload your projects on GitHub?"
+I plan to keep contributing to projects no matter the platform. For GitHub, you can find all my forks and contributions in [this dedicated organization](https://github.com/x-random-forks).
 
-[**No**, please.](https://nogithub.codeberg.page/)
+## "Can I fork/reupload your projects on GitHub?"
+
+I appreciate the thought, but I'd prefer you didn't. See the following articles on [Software Freedom Conservancy](https://sfconservancy.org/GiveUpGitHub/) and [this plead to developers](https://nogithub.codeberg.page/) not to upload their code on GitHub.
