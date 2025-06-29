@@ -1,7 +1,7 @@
 # welcome here 👋, i'm X.
 
-`💻` I'm a `19` y/o software developer having a blast at programming since `2014`.  
-`📚` I'm also a student @ [42 Angouleme](https://42angouleme.fr), a campus part of the wider [42 Network](https://www.42network.org/). 
+`💻` I'm a fullstack software developer and systems engineer having a blast at programming since `2014`.  
+`📚` I'm also a student @ [42](https://42angouleme.fr) as well as a freelancer. 
 
 ## Why is your profile empty?
 
